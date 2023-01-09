@@ -1,0 +1,24 @@
+body {
+  background-color: #aebdca;
+  font-family: 'Helvetica', Geneva, Verdana, sans-serif;
+  color:#323e4a
+}
+
+hr {
+  border-color: #7289a0;
+  border-style: dotted none none none;
+  border-width: 8px;
+  width: 5%;
+}
+
+img {
+  height: 180px;
+}
+
+h1 {
+  color:#323e4a
+}
+
+h3 {
+  color: #323e4a;
+}
